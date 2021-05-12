@@ -1,0 +1,25 @@
+{
+  "name": "vya.utils",
+  "version": "1.0.0",
+  "description": "Javascript utilities for react by vya.digital",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxwellOlliver/vya.utils.git"
+  },
+  "keywords": [
+    "utils"
+  ],
+  "author": "“Maxwell <“maxwellmacedo2015@gmail.com”>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MaxwellOlliver/vya.utils/issues"
+  },
+  "homepage": "https://github.com/MaxwellOlliver/vya.utils#readme",
+  "dependencies": {
+    "date-fns": "^2.21.3"
+  }
+}
